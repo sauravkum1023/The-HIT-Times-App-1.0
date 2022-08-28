@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "THE HIT TIMES",
+      title: "THE New HIT TIMES",
       theme: ThemeData(
         primaryColor: Color(0xFF0FB9B1),
         accentColor: Color(0xFF130f40),
